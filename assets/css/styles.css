@@ -7,7 +7,7 @@
         || Colors
     */
 
-    --hue-color: 140;
+    --hue-color: 10;
     --primary-color: hsl(var(--hue-color), 69%, 61%);
     --primary-color-second: hsl(var(--hue-color), 69%, 61%);
     --primary-color-alt: hsl(var(--hue-color), 57%, 53%);
